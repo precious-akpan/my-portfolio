@@ -2,6 +2,4 @@
 
 This is a really awesome portfolio site.
 
-Now editing on update-readme branch
-
-Update locally.
+Updates made on main on Github before rebase.
