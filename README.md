@@ -7,4 +7,8 @@ This file is just a readme file.
 
 ## Purpose
 
-The purpose of this file is to provide examples oh how to use Git and Github together.
+The portfolio to showcase all your projects on Github. So employers and colleagues can see what you're working on and what you've done.
+
+## Getting Started
+
+To get started just `clone` this repo.
